@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RIP_GOJG_tyb.aternos.me",
-    "port": 38513,
+    "ip": "BloodCore-SMP.aternos.me",
+    "port": 36401,
     "version": "",
     "try-creative": false
   },
